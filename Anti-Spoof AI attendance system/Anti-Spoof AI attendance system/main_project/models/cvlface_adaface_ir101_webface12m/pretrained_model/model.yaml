@@ -1,0 +1,10 @@
+input_size:
+- 3
+- 112
+- 112
+color_space: RGB
+name: ir101
+output_dim: 512
+start_from: ''
+freeze: false
+yaml_path: models/iresnet/configs/v1_ir101.yaml

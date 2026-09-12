@@ -1,0 +1,13 @@
+README.md
+pretrained_model/model.pt
+pretrained_model/model.yaml
+pretrained_model/config.yaml
+models/__init__.py
+models/base/utils.py
+models/base/__init__.py
+models/base/configs/example.yaml
+models/iresnet/model.py
+models/iresnet/__init__.py
+models/iresnet/configs/v1_ir18.yaml
+models/iresnet/configs/v1_ir101.yaml
+models/iresnet/configs/v1_ir50.yaml
